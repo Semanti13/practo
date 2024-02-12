@@ -1,0 +1,21 @@
+14:42:50.271 [main] INFO  testCases.TC_01 - *****Starting TC_01_Finding Hospitals*****
+14:42:50.284 [main] INFO  testCases.TC_01 - **Finding Doctors**
+14:44:27.260 [main] INFO  testCases.TC_01 - *****Ending TC_01_Finding Hospitals*****
+14:44:27.324 [main] INFO  testCases.TC_01 - *****Starting TC_02_Finding Hospitals*****
+14:44:27.324 [main] INFO  testCases.TC_01 - **Displaying Doctors' Details**
+14:44:54.991 [main] INFO  testCases.TC_01 - *****Ending TC_02_Finding Hospitals*****
+14:44:55.000 [main] INFO  testCases.TC_01 - *****Starting TC_03_Finding Hospitals*****
+14:44:55.001 [main] INFO  testCases.TC_01 - **Popular Surgeries**
+14:45:03.656 [main] INFO  testCases.TC_01 - *****Ending TC_03_Finding Hospitals*****
+14:45:03.681 [main] INFO  testCases.TC_01 - *****Starting TC_04_Finding Hospitals*****
+14:45:03.681 [main] INFO  testCases.TC_01 - ** Clicking on For Corporates **
+14:45:37.245 [main] INFO  testCases.TC_01 - ** Sending Positive Values **
+14:45:54.823 [main] INFO  testCases.TC_01 - ** Validating Thank You message for scheduling a demo for sending positive values **
+14:46:08.633 [main] INFO  testCases.TC_01 - *****Ending TC_04_Finding Hospitals*****
+14:46:08.637 [main] INFO  testCases.TC_01 - *****Starting TC_05_Finding Hospitals*****
+14:46:08.637 [main] INFO  testCases.TC_01 - ** Taking screenshot for validating Thank You message **
+14:46:11.037 [main] INFO  testCases.TC_01 - *****Ending TC_05_Finding Hospitals*****
+14:46:11.043 [main] INFO  testCases.TC_01 - *****Starting TC_06_Finding Hospitals*****
+14:46:11.044 [main] INFO  testCases.TC_01 - ** Clicking on For Corporates **
+14:46:44.498 [main] INFO  testCases.TC_01 - ** Sending Negative Values **
+14:46:51.968 [main] INFO  testCases.TC_01 - *****Ending TC_06_Finding Hospitals*****

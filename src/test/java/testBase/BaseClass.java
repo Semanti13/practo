@@ -33,11 +33,13 @@ public class BaseClass {
 	public void setup(String os, String br) throws IOException, Throwable
 
 	{
-		logger=LogManager.getLogger(this.getClass());
+		
 		// loading properties file
 		FileReader file = new FileReader(".//src//test//resources//config.Properties");
 		p = new Properties();
 		p.load(file);
+		
+		logger=LogManager.getLogger(this.getClass());
 
 		if (p.getProperty("execution_env").equalsIgnoreCase("remote")) {
 

@@ -2,7 +2,7 @@
 <testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-12T13:25:24 IST" name="Suite" finished-at="2024-02-12T13:31:03 IST" duration-ms="338503">
+  <suite started-at="2024-02-12T14:42:06 IST" name="Suite" finished-at="2024-02-12T14:46:53 IST" duration-ms="286256">
     <groups>
       <group name="regression">
         <method signature="TC_01.test_HomePage()[pri:1, instance:testCases.TC_01@31190526]" name="test_HomePage" class="testCases.TC_01"/>
@@ -23,15 +23,15 @@
         <method signature="TC_06.test_clickForCorporates()[pri:9, instance:testCases.TC_06@9d5509a]" name="test_clickForCorporates" class="testCases.TC_06"/>
       </group> <!-- sanity -->
     </groups>
-    <test started-at="2024-02-12T13:25:24 IST" name="Test" finished-at="2024-02-12T13:31:03 IST" duration-ms="338503">
+    <test started-at="2024-02-12T14:42:06 IST" name="Test" finished-at="2024-02-12T14:46:53 IST" duration-ms="286256">
       <class name="testCases.TC_02">
-        <test-method signature="test_DoctorsPage()[pri:2, instance:testCases.TC_02@5bda8e08]" started-at="2024-02-12T13:27:51 IST" name="test_DoctorsPage" finished-at="2024-02-12T13:28:22 IST" duration-ms="31027" status="PASS">
+        <test-method signature="test_DoctorsPage()[pri:2, instance:testCases.TC_02@5bda8e08]" started-at="2024-02-12T14:44:27 IST" name="test_DoctorsPage" finished-at="2024-02-12T14:44:54 IST" duration-ms="27675" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_DoctorsPage -->
       </class> <!-- testCases.TC_02 -->
       <class name="testCases.TC_01">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_01@31190526]" started-at="2024-02-12T13:25:25 IST" name="setup" finished-at="2024-02-12T13:26:15 IST" duration-ms="50209" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_01@31190526]" started-at="2024-02-12T14:42:07 IST" name="setup" finished-at="2024-02-12T14:42:50 IST" duration-ms="42641" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -47,51 +47,51 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="test_HomePage()[pri:1, instance:testCases.TC_01@31190526]" started-at="2024-02-12T13:26:16 IST" name="test_HomePage" finished-at="2024-02-12T13:27:51 IST" duration-ms="95634" status="PASS">
+        <test-method signature="test_HomePage()[pri:1, instance:testCases.TC_01@31190526]" started-at="2024-02-12T14:42:50 IST" name="test_HomePage" finished-at="2024-02-12T14:44:27 IST" duration-ms="97069" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_HomePage -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC_01@31190526]" started-at="2024-02-12T13:31:01 IST" name="teardown" finished-at="2024-02-12T13:31:03 IST" duration-ms="1376" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCases.TC_01@31190526]" started-at="2024-02-12T14:46:51 IST" name="teardown" finished-at="2024-02-12T14:46:53 IST" duration-ms="1209" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- testCases.TC_01 -->
       <class name="testCases.TC_04">
-        <test-method signature="test_ForCorporatesPage()[pri:5, instance:testCases.TC_04@185a6e9]" started-at="2024-02-12T13:28:49 IST" name="test_ForCorporatesPage" finished-at="2024-02-12T13:29:24 IST" duration-ms="35036" status="PASS">
+        <test-method signature="test_ForCorporatesPage()[pri:5, instance:testCases.TC_04@185a6e9]" started-at="2024-02-12T14:45:03 IST" name="test_ForCorporatesPage" finished-at="2024-02-12T14:45:37 IST" duration-ms="33581" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_ForCorporatesPage -->
-        <test-method signature="test_sendPositiveValues()[pri:6, instance:testCases.TC_04@185a6e9]" started-at="2024-02-12T13:29:24 IST" name="test_sendPositiveValues" finished-at="2024-02-12T13:29:42 IST" duration-ms="18747" status="PASS">
+        <test-method signature="test_sendPositiveValues()[pri:6, instance:testCases.TC_04@185a6e9]" started-at="2024-02-12T14:45:37 IST" name="test_sendPositiveValues" finished-at="2024-02-12T14:45:54 IST" duration-ms="17577" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_sendPositiveValues -->
-        <test-method signature="test_ValidationPositive()[pri:7, instance:testCases.TC_04@185a6e9]" started-at="2024-02-12T13:29:42 IST" name="test_ValidationPositive" finished-at="2024-02-12T13:30:02 IST" duration-ms="20087" status="PASS">
+        <test-method signature="test_ValidationPositive()[pri:7, instance:testCases.TC_04@185a6e9]" started-at="2024-02-12T14:45:54 IST" name="test_ValidationPositive" finished-at="2024-02-12T14:46:08 IST" duration-ms="13813" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_ValidationPositive -->
       </class> <!-- testCases.TC_04 -->
       <class name="testCases.TC_03">
-        <test-method signature="test_ClickSurgeriesPage()[pri:3, instance:testCases.TC_03@1e800aaa]" started-at="2024-02-12T13:28:22 IST" name="test_ClickSurgeriesPage" finished-at="2024-02-12T13:28:34 IST" duration-ms="11376" status="PASS">
+        <test-method signature="test_ClickSurgeriesPage()[pri:3, instance:testCases.TC_03@1e800aaa]" started-at="2024-02-12T14:44:54 IST" name="test_ClickSurgeriesPage" finished-at="2024-02-12T14:44:58 IST" duration-ms="3604" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_ClickSurgeriesPage -->
-        <test-method signature="test_SurgeriesPage()[pri:4, instance:testCases.TC_03@1e800aaa]" started-at="2024-02-12T13:28:34 IST" name="test_SurgeriesPage" finished-at="2024-02-12T13:28:49 IST" duration-ms="14852" status="PASS">
+        <test-method signature="test_SurgeriesPage()[pri:4, instance:testCases.TC_03@1e800aaa]" started-at="2024-02-12T14:44:58 IST" name="test_SurgeriesPage" finished-at="2024-02-12T14:45:03 IST" duration-ms="5056" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_SurgeriesPage -->
       </class> <!-- testCases.TC_03 -->
       <class name="testCases.TC_06">
-        <test-method signature="test_clickForCorporates()[pri:9, instance:testCases.TC_06@9d5509a]" started-at="2024-02-12T13:30:19 IST" name="test_clickForCorporates" finished-at="2024-02-12T13:30:53 IST" duration-ms="34626" status="PASS">
+        <test-method signature="test_clickForCorporates()[pri:9, instance:testCases.TC_06@9d5509a]" started-at="2024-02-12T14:46:11 IST" name="test_clickForCorporates" finished-at="2024-02-12T14:46:44 IST" duration-ms="33450" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_clickForCorporates -->
-        <test-method signature="test_sendNegativeValues()[pri:10, instance:testCases.TC_06@9d5509a]" started-at="2024-02-12T13:30:53 IST" name="test_sendNegativeValues" finished-at="2024-02-12T13:31:01 IST" duration-ms="8332" status="PASS">
+        <test-method signature="test_sendNegativeValues()[pri:10, instance:testCases.TC_06@9d5509a]" started-at="2024-02-12T14:46:44 IST" name="test_sendNegativeValues" finished-at="2024-02-12T14:46:51 IST" duration-ms="7474" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_sendNegativeValues -->
       </class> <!-- testCases.TC_06 -->
       <class name="testCases.TC_05">
-        <test-method signature="test_Screenshot()[pri:8, instance:testCases.TC_05@6f03482]" started-at="2024-02-12T13:30:02 IST" name="test_Screenshot" finished-at="2024-02-12T13:30:19 IST" duration-ms="16031" status="PASS">
+        <test-method signature="test_Screenshot()[pri:8, instance:testCases.TC_05@6f03482]" started-at="2024-02-12T14:46:08 IST" name="test_Screenshot" finished-at="2024-02-12T14:46:11 IST" duration-ms="2403" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_Screenshot -->
